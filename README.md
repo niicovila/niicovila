@@ -11,7 +11,7 @@ About me:
 - 🤖 AI Research and development for financial applications
 - 📈 Data Engineering & Analyst experience @ [Amazon](https://www.amazon.com/ "Amazon.com. Spend less. Smile more.")
 - 🎓 BSc in Mathematical Engineering on Data Science @ [UPF](https://www.upf.edu/en/web/etic/grau-en-enginyeria-matematica-ciencia-de-dades)
-- 💻 Skills: Python, Java, C++, SQL, data analysis, statistics, machine learning, deep learning, RL, CV, NLP, Huggingface
+- 💻 Skills: Python, Java, C++, SQL, data analysis, time-series analysis, statistics, machine learning, deep learning, RL, CV, NLP, Huggingface
 
 You can reach me at 
 
