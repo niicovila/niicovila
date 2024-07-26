@@ -9,6 +9,7 @@ My interests can be summarized in:
   
 About me:
 - 📈 Data Engineering & Analyst experience @ [Amazon](https://www.amazon.com/ "Amazon.com. Spend less. Smile more.")
+- 🤖 NLP & LLM experience @ [University of Chicago Law School](https://www.law.uchicago.edu/)
 - 🎓 BSc in Mathematical Engineering on Data Science @ [UPF](https://www.upf.edu/en/web/etic/grau-en-enginyeria-matematica-ciencia-de-dades)
 - 💻 Skills: Python, Java, C++, SQL, data analysis, time-series analysis, statistics, machine learning, deep learning, RL, CV, NLP, Huggingface
 
