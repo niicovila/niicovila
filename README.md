@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Nico 👋🏻
 
-<!--
-**niicovila/niicovila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data scientist and machine learning graduate with a focus on research. Interested in the development of AI models capable of reasoning and acting across various applications.
+My interests can be summarized in:
+- 🧠 Deep Learning
+- 🤖 Reinforcement Learning
+- 📊 Data Analysis
+- 🐍 Python Development
+  
+About me:
+- 🤖 AI Research and development for financial applications
+- 📈 Data Engineering & Analyst experience @ [Amazon](https://www.amazon.com/ "Amazon.com. Spend less. Smile more.")
+- 🎓 BSc in Mathematical Engineering on Data Science @ [UPF](https://www.upf.edu/en/web/etic/grau-en-enginyeria-matematica-ciencia-de-dades)
+- 💻 Skills: Python, Java, C++, SQL, data analysis, statistics, machine learning, deep learning, RL, CV, NLP, Huggingface
 
-Here are some ideas to get you started:
+You can reach me at 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-niicovila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/niicovila/])](https://www.linkedin.com/in/niicovila/)
