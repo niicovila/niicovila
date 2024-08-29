@@ -6,6 +6,7 @@ My interests can be summarized in:
 - 🤖 Reinforcement Learning
 - 📊 Data Analysis
 - 🐍 Python Development
+- 📈 Quant Finance
   
 About me:
 - 📈 Data Engineering & Analyst experience @ [Amazon](https://www.amazon.com/ "Amazon.com. Spend less. Smile more.")
