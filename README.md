@@ -3,7 +3,7 @@
 Data scientist and machine learning graduate with a focus on research. Interested in the development of AI models capable of reasoning and acting across various applications.
 My interests can be summarized in:
 - 🧠 Deep Learning
-- 🤖 Reinforcement Learning
+- 🤖 Reinforcement Learning & decision making
 - 📊 Data Analysis
 - 🐍 Python Development
 - 📈 Quant Finance
